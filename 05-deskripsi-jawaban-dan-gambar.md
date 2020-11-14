@@ -14,4 +14,7 @@ Penjelassan:
   - Mengganti port SSH
   - Memasang Monitoring Tools untuk dapat melihat traffic yang mencurigakan
   - Menggunakan SSL untuk applikasi web atau untuk Melakukan pertukaran data menggunakan FTPS
+<<<<<<< HEAD
 
+=======
+>>>>>>> 34ced0218efbcf040692a523630cbc8681f876cb
