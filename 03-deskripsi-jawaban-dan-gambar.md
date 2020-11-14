@@ -1,0 +1,3 @@
+- **Load Balancing** : Load Balancing merupakan suatu proses untuk membagikan sebuah tugas kepada sekumpulan resource dengan harapan untuk mengefisiensikan dan mengoptimasikan performa dari tugas yang dikerjakan.
+- **SSL** : SSL atau Secure Sockets Layer adalah sebuah protokol yang digunakan untuk mengamankan proses komunikasi pada website, website yang sudah menggunakan SSL ditandai dengan adanya 'https://' pada url website yang diakses.
+- Contoh Web Server : Apache, Nginx, Lighttpd
